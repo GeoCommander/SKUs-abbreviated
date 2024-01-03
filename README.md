@@ -18,3 +18,7 @@
 **3. ბოლოს იწერება წარმოების ქვეყანა:**
 მაგალითად საქართველო
 
+
+https://www.rs.ge/CommodityCodes
+
+ Workflowy
