@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      gioe1996@gmail.com
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="&lt;b&gt;&amp;lt;კატეგორიები - რაკო&amp;gt;&lt;/b&gt;">
+      <outline text="ქვიშა-ხრეში">
+        <outline text="პემზა" />
+        <outline text="ხერხი-ღორღი-კენჭი" />
+        <outline text="ქვიშა(შავი,ყვითელი)" />
+        <outline text="ბალასტი(ქვანარევი, უქვო)" />
+      </outline>
+      <outline text="მეტალის-მასალა">
+        <outline text="ლითონის მილი">
+          <outline text="კვადრატული" />
+          <outline text="მრგვალი" />
+          <outline text="მართკუთხა" />
+        </outline>
+        <outline text="ლითონის ობიექტი">
+          <outline text="შველერი (პროფილი U)" />
+          <outline text="ორთესებრი კოჭი" />
+        </outline>
+        <outline text="არმატურა">
+          <outline text="(ქვეყანა" />
+          <outline text="(ზომა)" />
+        </outline>
+        <outline text="ლითონის ბადე" />
+        <outline text="ლითონის კუთხე L - უგოლნიკი" />
+        <outline text="ლურსმანი" />
+        <outline text="სამშენებლო-ცალუღი(ხამუთი)" />
+      </outline>
+      <outline text="სხვა მასალები">
+        <outline text="ელექტროდი (ბრენდი, ზომა, ქვეყანა)" />
+        <outline text="ბეტონმრევი ანუ ბეტონმეშალკა (მოცულობა, ფერი, ქვეყანა)" />
+        <outline text="მინა ბამბა ანუ სტეკლოვატა (ფოლგიანი?, ზომა, ქვეყანა)" />
+      </outline>
+      <outline text="აგური">
+        <outline text="(ფორმა-VAR1)">
+          <outline text="Lფორმა-Lფო" />
+          <outline text="ბრტყელი-ბრტ" />
+          <outline text="მართკუთხედი-მარ" />
+        </outline>
+        <outline text="(მდგომარეობა-VAR2)">
+          <outline text="ახალი-ახა" />
+          <outline text="მეორადი-მეო" />
+        </outline>
+        <outline text="(ცეცხლგამძლეობა-VAR3)">
+          <outline text="ცეცხლგამძლე-ცეც" />
+          <outline text="კერამიკული-კერ" />
+        </outline>
+        <outline text="(ყინვაგამძლეობა-VAR4)">
+          <outline text="ყინვაგამძლე-ყინ" />
+          <outline text="არაყინვაგამძლე-არა" />
+        </outline>
+        <outline text="(ფერი-VAR5)">
+          <outline text="წითელი-წით" />
+          <outline text="თეთრი-თეთ" />
+        </outline>
+        <outline text="(ზომა(სმ)-VAR6)">
+          <outline text="სიგრძე-სიგანე-სიმაღლე">
+            <outline text="22x10x5.5" />
+            <outline text="11x23x7 - N7" />
+            <outline text="12x25x6.5" />
+          </outline>
+        </outline>
+        <outline text="(შემადგენლობა-VAR7)">
+          <outline text="სილიკატის-სილ" />
+          <outline text="კლინკერული-კლი" />
+        </outline>
+        <outline text="(ნახვრეტიანობა-VAR8)">
+          <outline text="ნახვრეტიანი-ნახ" />
+          <outline text="უნახვრეტო-უნა" />
+        </outline>
+        <outline text="(მარკიანობა-VAR9)">
+          <outline text="350" />
+          <outline text="2..." />
+        </outline>
+        <outline text="(წარმოების ქვეყანა-VAR10)">
+          <outline text="ირანი - ირ" />
+          <outline text="რუსეთი-რუ" />
+          <outline text="თურქეთი-თუ" />
+          <outline text="ბელარუსეთი-ბე" />
+          <outline text="უკრაინა-უკ" />
+          <outline text="ქართული-ქარ" />
+        </outline>
+        <outline text="(დანიშნულება-VAR11)">
+          <outline text="დეკორატიული" />
+          <outline text="საფასადე" />
+        </outline>
+      </outline>
+      <outline text="ბლოკი">
+        <outline text="(მდგომარეობა)">
+          <outline text="მეორადი" />
+          <outline text="ახალი" />
+        </outline>
+        <outline text="(ფორმა)">
+          <outline text="ტიხრის" />
+          <outline text="ჩვეულებრივი" />
+        </outline>
+        <outline text="(მასალა)">
+          <outline text="იტონგი" />
+          <outline text="გაზობლოკი(ბეტონის)" />
+        </outline>
+        <outline text="(სიმსუბუქე)">
+          <outline text="მძიმე" />
+          <outline text="მსუბუქი" />
+        </outline>
+        <outline text="(ზომა)">
+          <outline text="23x12x4142" />
+          <outline text="..." />
+          <outline text="" />
+        </outline>
+        <outline text="(წარმოების ქვეყანა-VAR10)">
+          <outline text="ირანი - ირ" />
+          <outline text="რუსეთი-რუ" />
+          <outline text="თურქეთი-თუ" />
+          <outline text="ბელარუსეთი-ბე" />
+          <outline text="უკრაინა-უკ" />
+          <outline text="ქართული-ქარ" />
+        </outline>
+      </outline>
+      <outline text="ცემენტი:">
+        <outline text="(მარკიანობა)">
+          <outline text="300-300" />
+          <outline text="400-400" />
+          <outline text="500-500" />
+        </outline>
+        <outline text="(ბრენდი)">
+          <outline text="ჯენერიკი" />
+          <outline text="&amp;lt;კონკრეტული ბრენდი&amp;gt;" />
+        </outline>
+        <outline text="(ყინვაგამძლეობა)">
+          <outline text="ყინვაგამძლე" />
+          <outline text="არაყინვაგამძლე" />
+        </outline>
+        <outline text="(ქვეყნის იდენტიფიკაცია)">
+          <outline text="ირანი - ირ" />
+          <outline text="რუსეთი-რუ" />
+          <outline text="თურქეთი-თუ" />
+          <outline text="ბელარუსეთი-ბე" />
+          <outline text="უკრაინა-უკ" />
+        </outline>
+      </outline>
+      <outline text="კრამიტი">
+        <outline text="(მდგომარეობა)">
+          <outline text="მეორადი" />
+          <outline text="ახალი" />
+        </outline>
+        <outline text="(წარმოების ქვეყანა)">
+          <outline text="საქართველო-საქ" />
+          <outline text="რუსეთი-რუს" />
+          <outline text="უკრაინა-უკრ" />
+        </outline>
+        <outline text="(დამატებითი კატეგორია - ფორმა?)">
+          <outline text="იმერული" />
+          <outline text="მარსელის" />
+          <outline text="(ზომა)" />
+        </outline>
+      </outline>
+      <outline text="მინერალური ქვები">
+        <outline text="(ქვეყანა)">
+          <outline text="სომხეთი" />
+          <outline text="საქართველო" />
+        </outline>
+        <outline text="(მასალა)">
+          <outline text="ტუფა" />
+          <outline text="ტრავერტინი" />
+        </outline>
+        <outline text="(ზომა)" />
+      </outline>
+      <outline text="ხერხის პირები">
+        <outline text="(ფუნქცია)">
+          <outline text="ქვის/აგურის საჭრელი" />
+        </outline>
+        <outline text="(დანის დიამეტრი)">
+          <outline text="400მმ" />
+          <outline text="350" />
+        </outline>
+        <outline text="(ალმასის ზომა)">
+          <outline text="40x15x3" />
+        </outline>
+      </outline>
+      <outline text="ხის მასალა">
+        <outline text="წიწვოვანი ხის მასალა" />
+      </outline>
+      <outline text="მომსახურეობა" />
+      <outline text="გასაქირავებელი" />
+    </outline>
+  </body>
+</opml>
