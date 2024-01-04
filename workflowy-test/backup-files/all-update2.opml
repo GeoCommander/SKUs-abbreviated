@@ -1,0 +1,848 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      gioe1996@gmail.com
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="&lt;b&gt;&amp;lt;კატეგორიები - რაკო&amp;gt;&lt;/b&gt;">
+      <outline text="ქვიშა-ხრეში">
+        <outline text="პემზა" />
+        <outline text="ხერხი-ღორღი-კენჭი" />
+        <outline text="ქვიშა(შავი,ყვითელი)" />
+        <outline text="ბალასტი(ქვანარევი, უქვო)" />
+      </outline>
+      <outline text="მეტალის-მასალა">
+        <outline text="ლითონის მილი">
+          <outline text="კვადრატული" />
+          <outline text="მრგვალი" />
+          <outline text="მართკუთხა" />
+        </outline>
+        <outline text="შველერი (პროფილი U)" />
+        <outline text="ორთესებრი კოჭი" />
+        <outline text="არმატურა">
+          <outline text="(ქვეყანა" />
+          <outline text="(ზომა)" />
+        </outline>
+        <outline text="გლინულა" />
+        <outline text="ლითონის ბადე" />
+        <outline text="ლითონის კუთხე L - უგოლნიკი" />
+        <outline text="ლურსმანი" />
+        <outline text="სამშენებლო-ცალუღი(ხამუთი)" />
+      </outline>
+      <outline text="სხვა მასალები">
+        <outline text="ელექტროდი (ბრენდი, ზომა, ქვეყანა)" />
+        <outline text="ბეტონმრევი ანუ ბეტონმეშალკა (მოცულობა, ფერი, ქვეყანა)" />
+        <outline text="მინა ბამბა ანუ სტეკლოვატა (ფოლგიანი?, ზომა, ქვეყანა)" />
+      </outline>
+      <outline text="აგური">
+        <outline text="(ფორმა-VAR1)">
+          <outline text="Lფორმა-Lფო" />
+          <outline text="ბრტყელი-ბრტ" />
+          <outline text="მართკუთხედი-მარ" />
+        </outline>
+        <outline text="(მდგომარეობა-VAR2)">
+          <outline text="ახალი-ახა" />
+          <outline text="მეორადი-მეო" />
+        </outline>
+        <outline text="(ცეცხლგამძლეობა-VAR3)">
+          <outline text="ცეცხლგამძლე-ცეც" />
+          <outline text="კერამიკული-კერ" />
+        </outline>
+        <outline text="(ყინვაგამძლეობა-VAR4)">
+          <outline text="ყინვაგამძლე-ყინ" />
+          <outline text="არაყინვაგამძლე-არა" />
+        </outline>
+        <outline text="(ფერი-VAR5)">
+          <outline text="წითელი-წით" />
+          <outline text="თეთრი-თეთ" />
+        </outline>
+        <outline text="(ზომა(სმ)-VAR6)">
+          <outline text="სიგრძე-სიგანე-სიმაღლე">
+            <outline text="22x10x5.5" />
+            <outline text="11x23x7 - N7" />
+            <outline text="12x25x6.5" />
+          </outline>
+        </outline>
+        <outline text="(შემადგენლობა-VAR7)">
+          <outline text="სილიკატის-სილ" />
+          <outline text="კლინკერული-კლი" />
+        </outline>
+        <outline text="(ნახვრეტიანობა-VAR8)">
+          <outline text="ნახვრეტიანი-ნახ" />
+          <outline text="უნახვრეტო-უნა" />
+        </outline>
+        <outline text="(მარკიანობა-VAR9)">
+          <outline text="350" />
+          <outline text="2..." />
+        </outline>
+        <outline text="(წარმოების ქვეყანა-VAR10)">
+          <outline text="ირანი - ირ" />
+          <outline text="რუსეთი-რუ" />
+          <outline text="თურქეთი-თუ" />
+          <outline text="ბელარუსეთი-ბე" />
+          <outline text="უკრაინა-უკ" />
+          <outline text="ქართული-ქარ" />
+        </outline>
+        <outline text="(დანიშნულება-VAR11)">
+          <outline text="დეკორატიული" />
+          <outline text="საფასადე" />
+        </outline>
+      </outline>
+      <outline text="ბლოკი">
+        <outline text="(მდგომარეობა)">
+          <outline text="მეორადი" />
+          <outline text="ახალი" />
+        </outline>
+        <outline text="(ფორმა)">
+          <outline text="ტიხრის" />
+          <outline text="ჩვეულებრივი" />
+        </outline>
+        <outline text="(მასალა)">
+          <outline text="იტონგი" />
+          <outline text="გაზობლოკი(ბეტონის)" />
+        </outline>
+        <outline text="(სიმსუბუქე)">
+          <outline text="მძიმე" />
+          <outline text="მსუბუქი" />
+        </outline>
+        <outline text="(ზომა)">
+          <outline text="23x12x4142" />
+          <outline text="..." />
+          <outline text="" />
+        </outline>
+        <outline text="(წარმოების ქვეყანა-VAR10)">
+          <outline text="ირანი - ირ" />
+          <outline text="რუსეთი-რუ" />
+          <outline text="თურქეთი-თუ" />
+          <outline text="ბელარუსეთი-ბე" />
+          <outline text="უკრაინა-უკ" />
+          <outline text="ქართული-ქარ" />
+        </outline>
+      </outline>
+      <outline text="ცემენტი:">
+        <outline text="(მარკიანობა)">
+          <outline text="300-300" />
+          <outline text="400-400" />
+          <outline text="500-500" />
+        </outline>
+        <outline text="(ბრენდი)">
+          <outline text="ჯენერიკი" />
+          <outline text="&amp;lt;კონკრეტული ბრენდი&amp;gt;" />
+        </outline>
+        <outline text="(ყინვაგამძლეობა)">
+          <outline text="ყინვაგამძლე" />
+          <outline text="არაყინვაგამძლე" />
+        </outline>
+        <outline text="(ქვეყნის იდენტიფიკაცია)">
+          <outline text="ირანი - ირ" />
+          <outline text="რუსეთი-რუ" />
+          <outline text="თურქეთი-თუ" />
+          <outline text="ბელარუსეთი-ბე" />
+          <outline text="უკრაინა-უკ" />
+        </outline>
+      </outline>
+      <outline text="კრამიტი">
+        <outline text="(მდგომარეობა)">
+          <outline text="მეორადი" />
+          <outline text="ახალი" />
+        </outline>
+        <outline text="(წარმოების ქვეყანა)">
+          <outline text="საქართველო-საქ" />
+          <outline text="რუსეთი-რუს" />
+          <outline text="უკრაინა-უკრ" />
+        </outline>
+        <outline text="(დამატებითი კატეგორია - ფორმა?)">
+          <outline text="იმერული" />
+          <outline text="მარსელის" />
+        </outline>
+        <outline text="(ზომა)" />
+      </outline>
+      <outline text="მინერალური ქვები">
+        <outline text="(ქვეყანა)">
+          <outline text="სომხეთი" />
+          <outline text="საქართველო" />
+        </outline>
+        <outline text="(მასალა)">
+          <outline text="ტუფა" />
+          <outline text="ტრავერტინი" />
+        </outline>
+        <outline text="(ზომა)" />
+      </outline>
+      <outline text="ხერხის პირები">
+        <outline text="(ფუნქცია)">
+          <outline text="ქვის/აგურის საჭრელი" />
+        </outline>
+        <outline text="(დანის დიამეტრი)">
+          <outline text="400მმ" />
+          <outline text="350" />
+        </outline>
+        <outline text="(ალმასის ზომა)">
+          <outline text="40x15x3" />
+        </outline>
+      </outline>
+      <outline text="ხის მასალა">
+        <outline text="წიწვოვანი ხის მასალა" />
+      </outline>
+      <outline text="მომსახურეობა" />
+      <outline text="გასაქირავებელი" />
+    </outline>
+    <outline text="&amp;lt;კატეგორიები - ფოლადის სახლი&amp;gt; - ეს კატეგორიები სრულიად გადასაკოპირებელია">
+      <outline text="მეტალის მასალები">
+        <outline text="კონკურენტები">
+          <outline text="&lt;b&gt;ციტადელი &lt;/b&gt;" />
+          <outline text="ფოლადის სახლი" />
+          <outline text="ევრო სტილი" />
+          <outline text="ევრო მეტალი" />
+          <outline text="გორგია" />
+          <outline text="ევროიმპორტი" />
+          <outline text="ევროვაგონკა" />
+        </outline>
+        <outline text="არმატურა">
+          <outline text="(დიამეტრი - მმ)">
+            <outline text="8" />
+            <outline text="..." />
+            <outline text="32" />
+          </outline>
+          <outline text="(სიგრძე - 12მ)" />
+        </outline>
+        <outline text="გამომწვარი მავთული" />
+        <outline text="გლინულა" />
+        <outline text="ზოლოვანა" />
+        <outline text="კვადრატული მილი" />
+        <outline text="კუთხოვანა" />
+        <outline text="ლითონის ფურცელი" />
+        <outline text="მოთუთიებული ეკლიანი მავლი" />
+        <outline text="მოთუთიებულიმავთული" />
+        <outline text="მრგვალი მილი" />
+        <outline text="ორტესებრი კოჭი" />
+        <outline text="რიფრირებული ლითონის ფურცელი" />
+        <outline text="ფოლადის მასიური კვადრატი" />
+        <outline text="ფოლადის მასიური მრგვალი ღერო " />
+        <outline text="შავი მავთული" />
+        <outline text="შველერი" />
+      </outline>
+      <outline text="საყალიბე მასალები">
+        <outline text="ლამინირებული ფანერა" />
+        <outline text="ორიენტირებული ბურბუშელის ფილა OSB - 3" />
+        <outline text="სამშენებლო დგარი" />
+        <outline text="სამშენებლო ხის კოჭი" />
+      </outline>
+      <outline text="ჩვენი წარმოება">
+        <outline text="ვენახის ბოძი" />
+        <outline text="თაბაშირ-მუყაოს პროფილები" />
+        <outline text="ლითონის ბადე" />
+        <outline text="სახურავი" />
+        <outline text="ცივად ნაგლინი არმატურა" />
+      </outline>
+      <outline text="ნედლეული">
+        <outline text="ბილეტები და ფილები" />
+        <outline text="გალვანიზირებული რულონი" />
+        <outline text="ფერადი რულონი" />
+        <outline text="ცხლად ნაგლინი რულონი" />
+      </outline>
+    </outline>
+    <outline text="რა ვისწავლეთ">
+      <outline text="ვარიაცია -&amp;gt; ტექნიკური მახასიათებელი" />
+      <outline text="გასაქირავებელი და გასაყიდი რაღაცეების დანცალკევება ხო არ გვჭირდება სასაქონლო კოდისთვის?" />
+      <outline text="აღმნიშვნელობები:">
+        <outline text="კატეგორია">
+          <outline text="სუბკატეგორია">
+            <outline text="პროდუქტი">
+              <outline text="(მახასიათებლის ტიპი - სამომხმარებლო მახასიათებელი)">
+                <outline text="[მახასიათებელი - მაგ: სილამაზე, ფორმა, ზომა, ფერი, გამოყენება, ქვეყანა]" />
+              </outline>
+              <outline text="(მახასიათებლის ტიპი - ტექნიკური მახასიათებელი)">
+                <outline text="[მახასიათებელი - მაგ: რიცხვი, სტატისტიკა, ტენიანობა]" />
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Category">
+        <outline text="(Subcategory1)">
+          <outline text="[Subcategory2]">
+            <outline text="{Subcategory3}">
+              <outline text="&amp;lt;Subcategory4&amp;gt;">
+                <outline text="«Subcategory5»">
+                  <outline text="『Subcategory6』" />
+                </outline>
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="კონკურენტები">
+      <outline text="ევროვაგონკა" />
+      <outline _complete="true" text="ფოლადის სახლი" />
+      <outline text="გორგია" />
+      <outline text="ევრომეტალი" />
+      <outline text="ევროსტილი" />
+      <outline text="ციტადელი" />
+    </outline>
+    <outline text="ევროვაგონკა - &lt;a href=&quot;http://evrovagonka.ge&quot;&gt;evrovagonka.ge&lt;/a&gt;">
+      <outline text="ევროვაგონკა/მწილი">
+        <outline text="ევროვაგონკა A,AB,C">
+          <outline text="ტექნიკური მახასიათებელი() {} [] &amp;lt;&amp;gt; ">
+            <outline text="{ქვეყანა}">
+              <outline text="რუსეთი (არხანგელსკი)" />
+            </outline>
+            <outline text="{ხის ჯიში}	">
+              <outline text="ფიჭვი" />
+            </outline>
+            <outline text="{დამუშავება}">
+              <outline text="გამომშრალი" />
+            </outline>
+            <outline text="{ტენიანობა}">
+              <outline text="12%" />
+            </outline>
+            <outline text="{შეფუთვა}">
+              <outline text="პოლიეთილენი" />
+            </outline>
+            <outline text="{რაოდენობა შეფუთვაში}">
+              <outline text="10" />
+            </outline>
+            <outline text="{გამოყენება}">
+              <outline text="შიდა და გარე" />
+            </outline>
+            <outline text="{დანიშნულება}">
+              <outline text="კედელი - ჭერი" />
+            </outline>
+          </outline>
+          <outline text="სამომხმარებლო მახასიათებელი">
+            <outline text="(ხის ჯიში)">
+              <outline text="[ფიჭვი]" />
+              <outline text="[ნაძვი]" />
+            </outline>
+            <outline text="(ქვეყანა)">
+              <outline text="[რუსეთი]" />
+            </outline>
+            <outline text="(ზომა)">
+              <outline text="10x100მმ" />
+              <outline text="10x3000მმ" />
+            </outline>
+            <outline text="(გაყიდვის ერთეული)">
+              <outline text="მ^2" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="მწილი AB">
+          <outline text="(ტექნიკური მახასიათებელი)">
+            <outline text="{ქვეყანა}">
+              <outline text="რუსეთი (არხანგელსკი)" />
+            </outline>
+            <outline text="{ხის ჯიში}	">
+              <outline text="ფიჭვი" />
+            </outline>
+            <outline text="{დამუშავება}">
+              <outline text="გამომშრალი" />
+            </outline>
+            <outline text="{ტენიანობა}">
+              <outline text="12%" />
+            </outline>
+            <outline text="{შეფუთვა}">
+              <outline text="პოლიეთილენი" />
+            </outline>
+            <outline text="{რაოდენობა შეფუთვაში}">
+              <outline text="10" />
+            </outline>
+            <outline text="{გამოყენება}">
+              <outline text="შიდა და გარე" />
+            </outline>
+            <outline text="{დანიშნულება}">
+              <outline text="კედელი - ჭერი" />
+            </outline>
+          </outline>
+          <outline text="(ხის ჯიში)">
+            <outline text="[ნაძვი]" />
+            <outline text="[ფიჭვი]" />
+            <outline text="[ლარიქსი]" />
+          </outline>
+          <outline text="(ქვეყანა)">
+            <outline text="[რუსეთი]" />
+          </outline>
+          <outline text="(ზომა)">
+            <outline text="12,5x120მმ" />
+            <outline text="12,5x2700მმ" />
+            <outline text="12,5x3000მმ" />
+            <outline text="12,5x6000მმ" />
+          </outline>
+          <outline text="(გაყიდვის ერთეული)">
+            <outline text="მ^2" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="ხის იატაკი">
+        <outline text="სამშრიანი პარკეტი">
+          <outline text="(ტექნიკური მახასიათებელი)">
+            <outline text="(ქვეყანა)">
+              <outline text="{რუსეთი}" />
+            </outline>
+            <outline text="(ხის ჯიში)">
+              <outline text="{ფიჭვი}" />
+            </outline>
+            <outline text="(დამუშავება)">
+              <outline text="{გამომშრალი}" />
+            </outline>
+            <outline text="(ტენიანობა)">
+              <outline text="{12%}" />
+            </outline>
+            <outline text="(შეფუთვა)">
+              <outline text="{პოლიეთილენი}" />
+            </outline>
+            <outline text="(რაოდენობა შეფუთვაში)">
+              <outline text="{4}" />
+            </outline>
+            <outline text="(გამოყენება)">
+              <outline text="{შიდა}" />
+            </outline>
+            <outline text="დანიშნულება:	იატაკი" />
+          </outline>
+        </outline>
+        <outline text="იატაკის ფიცარი" />
+      </outline>
+      <outline text="ხის ფასადი">
+        <outline text="ბლოკჰაუსი AB" />
+        <outline text="ბრუსის იმიტაცია AB" />
+      </outline>
+      <outline text="ფანერა">
+        <outline text="OSB" />
+      </outline>
+      <outline text="ხის კიბე">
+        <outline text="კიბის საფეხური" />
+        <outline text="კიბის შუბლი" />
+        <outline text="კიბის მოსახვევი" />
+        <outline text="მოაჯირის საფეხური" />
+        <outline text="რიკული" />
+        <outline text="დედაბოძები" />
+        <outline text="ავეჯის დაფა" />
+      </outline>
+      <outline text="ხის კარები">
+        <outline text="მასიური ხის კარი" />
+        <outline text="კარის ჩარჩო" />
+        <outline text="კრი-ჟალუზი" />
+        <outline text="&quot;ნალიჩნიკი&quot;" />
+      </outline>
+      <outline text="დეკორატიული პანელი">
+        <outline text="ფიჭვის დეკორატიული პანელი" />
+        <outline text="მუხის დეკორატიოული პანელი" />
+      </outline>
+      <outline text="ხის აქსესუარები">
+        <outline text="გარანდული ფიცარი" />
+        <outline text="მაგიდის ზედაპირი" />
+        <outline text="პლინტუსი" />
+        <outline text="ძელაკი (რეიკა)" />
+        <outline text="კუთხოვანა (უგოლნიკი)" />
+        <outline text="&quot;ნალიჩნიკი&quot;" />
+        <outline text="ტკეჩი" />
+        <outline text="ავეჯის დაფა" />
+      </outline>
+      <outline text="ლაქები და საღებავები">
+        <outline text="ლუქსდეკორი LuxDecor" />
+        <outline text="ბურტექსი Burtex" />
+        <outline text="სენეჟი ხის ანტისეპტიკი" />
+        <outline text="ხანძარსაწინააღმდეგო ხსნარი" />
+        <outline text="იატაკის ლაქი გლიმტრექსი" />
+      </outline>
+      <outline text="ხის სახლი">
+        <outline text="მინი ხის კოტეჯი სათავსო" />
+        <outline text="ხის კოტეჯი 15 მ²" />
+        <outline text="ფისოს სახლი" />
+      </outline>
+      <outline text="პროექტები">
+        <outline text="(სახლების ჩამონათვალი)" />
+      </outline>
+      <outline text="შეშა">
+        <outline text="ბრეკეტები - შეშის ალტერნატივა" />
+      </outline>
+      <outline text="ბაღი და ტერასა">
+        <outline text="სატერასე იატაკი" />
+      </outline>
+      <outline text="ხის წებო">
+        <outline text="(წყალგამძლეობა-წყალ)" />
+        <outline text="(ტოქსიკურობა-ტოკს)" />
+        <outline text="(უსაფრთხოება-უსა)" />
+        <outline text="(ქვეყანა)">
+          <outline text="[ამერიკა]" />
+        </outline>
+      </outline>
+    </outline>
+    <outline text="Item Groups">
+      <outline text="Buy&amp;Sale">
+        <outline text="Goods" />
+        <outline text="Services">
+          <outline text="Labor" />
+          <outline text="Rent" />
+        </outline>
+      </outline>
+      <outline text="OPERATIONS">
+        <outline text="Manufacturing">
+          <outline text="Raw Material" />
+        </outline>
+      </outline>
+      <outline text="Assets">
+        <outline text="Fixed Assets (long term)">
+          <outline text="Buildings" />
+          <outline text="Machinery" />
+          <outline text="Heavy Equipment" />
+          <outline text="Vehicles" />
+        </outline>
+        <outline text="Current Assets (consumed within year)">
+          <outline text="" />
+        </outline>
+      </outline>
+    </outline>
+    <outline text="უნდა გაკეთდეს სანამ სისტემა ჩაირთვება">
+      <outline text="BUSINESS PROCESS MAPPING - ბიზნესის პროცესების დაჯგუფება (CoA-ს მერე)" />
+      <outline text="შესაძლებელია რო მარტო - SKU, საქონლის ოდენობის და Invoice დაიწყოს მერე დავამატებთ." />
+      <outline text="shopify-ს მიბმა უნდა დაიტესტოს" />
+      <outline text="POS სისტემა ადვილი უნდა იყოს მოლარესთვის">
+        <outline text="SKU-ები უნდა ჩამოყალიბდეს იმის მიხედვით რო ადვილად მოიძებნს ბაზაში" />
+        <outline text="" />
+      </outline>
+      <outline text="Chart of Accounts უნდა გაირკვას რატოა ესეთი მნიშვნელოვანი და რა რლს ასრულს" />
+      <outline text="WIKI.js-ში უნდა დავდო ERPnext-ის ტრაინინგის ვიდეოები">
+        <outline text="როგორ მუშაობს სისტემა" />
+        <outline text="საბაზისო გამოყენების ვიდეოები კონკრეტული როლის" />
+      </outline>
+      <outline text="წვდომის კონტროლი უნდა შევათანხმო მამასთან">
+        <outline text="ლოკაციის მენეჯერს რისი ნახვა შეეძლოს?" />
+        <outline text="ლოკაციის მუშას რისი ნახვა შეეძლოს?" />
+        <outline text="ლოკაციის მოლარეს რისი ნახვა შეეძლოს?" />
+      </outline>
+      <outline text="ERPnext დოკუმენტაცია: &lt;a href=&quot;https://docs.erpnext.com/docs/user/manual/en/accounting-reports&quot;&gt;https://docs.erpnext.com/docs/user/manual/en/accounting-reports&lt;/a&gt;">
+        <outline text="Chart of Accounts CoA &lt;a href=&quot;https://docs.erpnext.com/docs/user/manual/en/chart-of-accounts&quot;&gt;https://docs.erpnext.com/docs/user/manual/en/chart-of-accounts&lt;/a&gt;" />
+      </outline>
+      <outline text="თითოელი სექციის სუბსექციები დააკოპირე და გააკეთე სუბკატეგორიები. მერე ცეცხლს შეეკითხე CoA ნაწილი შეიძლება იყოს მაგის თითოეული სუბსექცია" />
+    </outline>
+    <outline text="Chart of Accounts (CoA)">
+      <outline text="Chart of Accounts (CoA) - Example">
+        <outline text="RAKO - Subsidiary">
+          <outline text="Example: A small specialized store under the main business that exclusively sells outdoor construction materials like landscaping stones and garden bricks." />
+        </outline>
+        <outline text="&lt;b&gt;Application of Funds (Assets)&lt;/b&gt;">
+          <outline text="Current Assets">
+            <outline text="Accounts Receivable">
+              <outline text="Debtors: Local builders who have purchased materials on credit, owing a total of $20,000." />
+            </outline>
+            <outline text="Bank Accounts: Main business account holding $50,000." />
+            <outline text="Cash In Hand">
+              <outline text="Cash: $4,000 in cash for daily retail transactions." />
+            </outline>
+            <outline text="Loans and Advances (Assets)">
+              <outline text="Employee Advances: $800 advanced to an employee for a work-related course." />
+            </outline>
+            <outline text="Securities and Deposits">
+              <outline text="Earnest Money: $2,000 deposit for a lease on additional storage space." />
+            </outline>
+            <outline text="Stock Assets">
+              <outline text="Stock In Hand: Inventory including lumber, rebar, beams, bricks, cement, and sand valued at $60,000." />
+            </outline>
+            <outline text="Tax Assets: Input VAT credit of $7,000." />
+          </outline>
+          <outline text="Fixed Assets">
+            <outline text="Accumulated Depreciation: $30,000 depreciation on heavy machinery and equipment over 4 years." />
+            <outline text="Buildings: Warehouse and retail space valued at $400,000." />
+            <outline text="CWIP Account: Upgrading of loading docks, costs incurred so far $20,000." />
+            <outline text="Capital Equipments: Heavy loading equipment and trucks purchased for $80,000." />
+            <outline text="Electronic Equipments: Computers and security cameras worth $12,000." />
+            <outline text="Furnitures and Fixtures: Office furniture and retail shelving worth $20,000." />
+            <outline text="Office Equipments: Printers, scanners, and other office equipment worth $5,000." />
+            <outline text="Plants and Machineries: Forklifts and bobcats for material handling, worth $50,000." />
+            <outline text="Softwares: Customized inventory and sales software licensed for $4,000." />
+          </outline>
+          <outline text="Investments: $30,000 invested in a joint venture with a local transport company." />
+          <outline text="Temporary Accounts">
+            <outline text="Temporary Opening: Initial balance of $10,000 for the start of the financial year." />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;Source of Funds (Liabilities)&lt;/b&gt;">
+          <outline text="Current Liabilities">
+            <outline text="Accounts Payable">
+              <outline text="Creditors: Owing $40,000 to various suppliers for bulk material purchases." />
+              <outline text="Payroll Payable: Wages and salaries totaling $30,000 for the current month." />
+            </outline>
+            <outline text="Duties and Taxes">
+              <outline text="ST 4%/6%/6.25%: Service tax on transportation and logistics services." />
+              <outline text="VAT: VAT payable of $8,000 on material sales." />
+            </outline>
+            <outline text="Loans (Liabilities)">
+              <outline text="Bank Overdraft Account: Overdrawn by $4,000 due to a large bulk purchase." />
+              <outline text="Secured Loans: A $200,000 loan secured by warehouse property." />
+              <outline text="Unsecured Loans: A $25,000 operational loan without specific collateral." />
+            </outline>
+            <outline text="Stock Liabilities">
+              <outline text="Asset Received But Not Billed: Recently received construction machinery valued at $15,000 not yet invoiced." />
+              <outline text="Stock Received But Not Billed: A shipment of cement and sand worth $18,000 not yet billed." />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;Equity&lt;/b&gt;">
+          <outline text="Capital Stock: $500,000 raised from investors through the sale of company shares." />
+          <outline text="Dividends Paid: $20,000 distributed to shareholders as dividends last year." />
+          <outline text="Opening Balance Equity: Equity balance of $300,000 at the beginning of the financial year." />
+          <outline text="Retained Earnings: $150,000 of profits from previous years retained in the business for growth and operations." />
+        </outline>
+        <outline text="&lt;b&gt;Income&lt;/b&gt;">
+          <outline text="Direct Income">
+            <outline text="Sales: Revenue of $600,000 from selling construction materials like bricks, cement, and lumber." />
+            <outline text="Service: Income of $50,000 from delivery and material consultation services." />
+          </outline>
+          <outline text="Indirect Income: Rental income of $10,000 from leasing a part of the warehouse space." />
+        </outline>
+        <outline text="&lt;b&gt;Expenses&lt;/b&gt;">
+          <outline text="Direct Expenses">
+            <outline text="Stock Expenses">
+              <outline text="Cost of Goods Sold: $400,000 spent on purchasing construction materials sold this year." />
+              <outline text="Expenses Included In Asset Valuation: $5,000 in transportation and handling costs added to the cost of inventory." />
+              <outline text="Expenses Included In Valuation: $2,000 in import duties included in the cost of imported materials." />
+              <outline text="Stock Adjustment: Inventory loss of $1,000 due to damage and wastage." />
+            </outline>
+          </outline>
+          <outline text="Indirect Expenses">
+            <outline text="Administrative Expenses: $30,000 on administrative staff and office supplies." />
+            <outline text="Commission on Sales: $15,000 paid as commission to sales representatives." />
+            <outline text="Depreciation: $40,000 for depreciation of machinery, equipment, and vehicles." />
+            <outline text="Entertainment Expenses: $3,000 on business-related entertainment and client meetings." />
+            <outline text="Exchange Gain/Loss: Gain of $2,000 from favorable foreign exchange rates on imports." />
+            <outline text="Freight and Forwarding Charges: $25,000 for transportation and logistics of materials." />
+            <outline text="Gain/Loss on Asset Disposal: Loss of $4,000 on the sale of an old forklift." />
+            <outline text="Legal Expenses: $7,000 on legal consultancy and contract drafting." />
+            <outline text="Marketing Expenses: $20,000 on advertising campaigns and promotional materials." />
+            <outline text="Miscellaneous Expenses: $5,000 on various unforeseen small expenses." />
+            <outline text="Office Maintenance Expenses: $10,000 on maintaining and repairing the office space." />
+            <outline text="Office Rent: $24,000 annual rent for the office and warehouse space." />
+            <outline text="Postal Expenses: $1,000 on postal and courier services." />
+            <outline text="Print and Stationery: $2,500 on printing marketing materials and buying stationery." />
+            <outline text="Round Off: Minor rounding adjustments of $100 in financial statements." />
+            <outline text="Salary: $200,000 paid in total salaries to employees." />
+            <outline text="Sales Expenses: $8,000 on expenses directly related to making sales." />
+            <outline text="Telephone Expenses: $4,000 on office and mobile phone bills." />
+            <outline text="Travel Expenses: $12,000 on business trips and client site visits." />
+            <outline text="Utility Expenses: $18,000 on electricity, water, and other utilities." />
+            <outline text="Write Off: $3,000 written off for bad debts that are unlikely to be collected." />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Chart of Accounts (CoA) - Explanation">
+        <outline text="RAKO - A subsidiary company or a smaller company owned by a parent company." />
+        <outline text="&lt;b&gt;Application of Funds (Assets)&lt;/b&gt; - How the company's funds are used or invested in various assets (აქტივები/ტრაკიანობა - რაშიც არის ფული ჩადებული).">
+          <outline text="Current Assets - Assets that are expected to be converted into cash, sold, or consumed within a year.">
+            <outline text="Accounts Receivable - Money owed to the company by its customers.">
+              <outline text="Debtors - Individuals or entities that owe money to the company." />
+            </outline>
+            <outline text="Bank Accounts - Accounts held by the company in a bank." />
+            <outline text="Cash In Hand - Physical cash held by the company.">
+              <outline text="Cash - Actual money available immediately." />
+            </outline>
+            <outline text="Loans and Advances (Assets) - Money lent by the company to employees or others, expected to be repaid.">
+              <outline text="Employee Advances - Money advanced to employees, typically for expenses." />
+            </outline>
+            <outline text="Securities and Deposits - Investments or money deposited for security purposes.">
+              <outline text="Earnest Money - Money given to confirm a contract, often in real estate transactions." />
+            </outline>
+            <outline text="Stock Assets - Goods or materials held for sale or production.">
+              <outline text="Stock In Hand - Inventory currently available." />
+            </outline>
+            <outline text="Tax Assets - Potential tax claims or recoveries." />
+          </outline>
+          <outline text="Fixed Assets - Long-term assets used in the business, not easily converted into cash.">
+            <outline text="Accumulated Depreciation - The total depreciation of fixed assets over time." />
+            <outline text="Buildings - Company-owned buildings." />
+            <outline text="CWIP Account - Capital Work in Progress, ongoing long-term assets construction." />
+            <outline text="Capital Equipments - Large, expensive equipment used for production." />
+            <outline text="Electronic Equipments - Electronic devices used in business operations." />
+            <outline text="Furnitures and Fixtures - Furniture and fixtures in the company." />
+            <outline text="Office Equipments - Equipment used in the office for daily operations." />
+            <outline text="Plants and Machineries - Industrial plants and machinery used in manufacturing." />
+            <outline text="Softwares - Computer programs used in business operations." />
+          </outline>
+          <outline text="Investments - Money put into stocks, bonds, or other ventures expecting future gains." />
+          <outline text="Temporary Accounts - Accounts used for temporary bookkeeping or transitional purposes.">
+            <outline text="Temporary Opening - An account used to record initial balances during an accounting period." />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;Source of Funds (Liabilities)&lt;/b&gt; - How the company has financed its assets, including debts and owners' equity(ვალდებულებები -ის რაშიც მოვალე ხარ რო ფული ჩადო).">
+          <outline text="Current Liabilities - Debts or obligations due within a year.">
+            <outline text="Accounts Payable - Money the company owes to suppliers or creditors.">
+              <outline text="Creditors - Entities to which the company owes money." />
+              <outline text="Payroll Payable - Salaries and wages owed to employees." />
+            </outline>
+            <outline text="Duties and Taxes - Taxes and duties owed by the company.">
+              <outline text="&lt;span class=&quot;colored bc-yellow&quot;&gt;ST (Service Tax) 4% / 6% / 6.25% - Different rates of service tax.&lt;/span&gt;" />
+              <outline text="VAT - Value Added Tax on goods or services." />
+            </outline>
+            <outline text="Loans (Liabilities) - Borrowed money that the company must repay.">
+              <outline text="Bank Overdraft Account - A facility allowing the company to withdraw more money than is in its account." />
+              <outline text="Secured Loans - Loans backed by collateral." />
+              <outline text="Unsecured Loans - Loans not backed by collateral." />
+            </outline>
+            <outline text="Stock Liabilities - Obligations related to inventory.">
+              <outline text="Asset Received But Not Billed - Assets received but not yet invoiced." />
+              <outline text="Stock Received But Not Billed - Inventory received but not yet invoiced." />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;Equity - &lt;/b&gt;Represents the owner's interest in the company. (წილობრივი კაპიტალი)">
+          <outline text="Capital Stock - The amount of money invested by shareholders through the purchase of stock in the company." />
+          <outline text="Dividends Paid - Earnings distributed to shareholders." />
+          <outline text="Opening Balance Equity - The initial amount of equity in the company at the beginning of an accounting period." />
+          <outline text="Retained Earnings - Profits that are reinvested in the company rather than distributed to shareholders." />
+        </outline>
+        <outline text="&lt;b&gt;Income - &lt;/b&gt;Money that the company earns from its activities.">
+          <outline text="Direct Income - Income generated directly from the company’s primary business activities.">
+            <outline text="Sales - Revenue from the sale of goods or services." />
+            <outline text="Service - Income earned from providing services." />
+          </outline>
+          <outline text="Indirect Income - Income not directly tied to the company’s primary activities, such as interest or rental income." />
+        </outline>
+        <outline text="&lt;b&gt;Expenses - &lt;/b&gt;Costs incurred by the company to generate income.">
+          <outline text="Direct Expenses - Expenses directly linked to the production of goods or services.">
+            <outline text="Stock Expenses - Costs associated with managing and maintaining inventory.">
+              <outline text="Cost of Goods Sold - The direct costs of producing the goods sold by the company." />
+              <outline text="Expenses Included In Asset Valuation - Costs that are part of the valuation of assets." />
+              <outline text="Expenses Included In Valuation - General costs included in the valuation of stock or assets." />
+              <outline text="Stock Adjustment - Adjustments made to the stock value, either increases or decreases." />
+            </outline>
+          </outline>
+          <outline text="Indirect Expenses - Costs not directly tied to the production of goods or services.">
+            <outline text="Administrative Expenses - Costs related to the general operation of the company." />
+            <outline text="Commission on Sales - Payments made to sales personnel or agents based on sales volume." />
+            <outline text="Depreciation - Allocation of the cost of an asset over its useful life." />
+            <outline text="Entertainment Expenses - Costs for business-related entertainment." />
+            <outline text="Exchange Gain/Loss - Profits or losses due to changes in foreign exchange rates." />
+            <outline text="Freight and Forwarding Charges - Costs of transporting and handling goods." />
+            <outline text="Gain/Loss on Asset Disposal - Profits or losses from selling or disposing of assets." />
+            <outline text="Legal Expenses - Costs for legal services." />
+            <outline text="Marketing Expenses - Costs of promoting the company and its products or services." />
+            <outline text="Miscellaneous Expenses - Various small or incidental costs." />
+            <outline text="Office Maintenance Expenses - Costs of maintaining the office space." />
+            <outline text="Office Rent - Costs of renting office space." />
+            <outline text="Postal Expenses - Costs for postal services." />
+            <outline text="Print and Stationery - Costs for printing and office supplies." />
+            <outline text="Round Off - Small adjustments made to account for rounding in financial statements." />
+            <outline text="Salary - Payments to employees." />
+            <outline text="Sales Expenses - Costs incurred in making sales." />
+            <outline text="Telephone Expenses - Costs of telephone services." />
+            <outline text="Travel Expenses - Costs of business travel." />
+            <outline text="Utility Expenses - Costs of utilities like electricity and water." />
+            <outline text="Write Off - Removing an asset from the financial statements because it no longer has value." />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Chart of Accounts (CoA) - Review">
+        <outline text="RAKO - Subsidiary" />
+        <outline text="&lt;b&gt;Application of Funds (Assets)&lt;/b&gt;">
+          <outline text="Current Assets">
+            <outline text="Accounts Receivable">
+              <outline text="Debtors" />
+            </outline>
+            <outline text="Bank Accounts" />
+            <outline text="Cash In Hand">
+              <outline text="Cash" />
+            </outline>
+            <outline text="Loans and Advances (Assets)">
+              <outline text="Employee Advances" />
+            </outline>
+            <outline text="Securities and Deposits">
+              <outline text="Earnest Money" />
+            </outline>
+            <outline text="Stock Assets">
+              <outline text="Stock In Hand" />
+            </outline>
+            <outline text="Tax Assets" />
+          </outline>
+          <outline text="Fixed Assets">
+            <outline text="Accumulated Depreciation" />
+            <outline text="Buildings" />
+            <outline text="CWIP Account" />
+            <outline text="Capital Equipments" />
+            <outline text="Electronic Equipments" />
+            <outline text="Furnitures and Fixtures" />
+            <outline text="Office Equipments" />
+            <outline text="Plants and Machineries" />
+            <outline text="Softwares" />
+          </outline>
+          <outline text="Investments" />
+          <outline text="Temporary Accounts">
+            <outline text="Temporary Opening" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;Source of Funds (Liabilities)&lt;/b&gt;">
+          <outline text="Current Liabilities">
+            <outline text="Accounts Payable">
+              <outline text="Creditors" />
+              <outline text="Payroll Payable" />
+            </outline>
+            <outline text="Duties and Taxes">
+              <outline text="ST 4%" />
+              <outline text="ST 6%" />
+              <outline text="ST 6.25%" />
+              <outline text="VAT" />
+            </outline>
+            <outline text="Loans (Liabilities)">
+              <outline text="Bank Overdraft Account" />
+              <outline text="Secured Loans" />
+              <outline text="Unsecured Loans" />
+            </outline>
+            <outline text="Stock Liabilities">
+              <outline text="Asset Received But Not Billed" />
+              <outline text="Stock Received But Not Billed" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;Equity&lt;/b&gt;">
+          <outline text="Capital Stock" />
+          <outline text="Dividends Paid" />
+          <outline text="Opening Balance Equity" />
+          <outline text="Retained Earnings" />
+        </outline>
+        <outline text="&lt;b&gt;Income&lt;/b&gt;">
+          <outline text="Direct Income">
+            <outline text="Sales" />
+            <outline text="Service" />
+          </outline>
+          <outline text="Indirect Income" />
+        </outline>
+        <outline text="&lt;b&gt;Expenses&lt;/b&gt;">
+          <outline text="Direct Expenses">
+            <outline text="Stock Expenses">
+              <outline text="Cost of Goods Sold" />
+              <outline text="Expenses Included In Asset Valuation" />
+              <outline text="Expenses Included In Valuation" />
+              <outline text="Stock Adjustment" />
+            </outline>
+          </outline>
+          <outline text="Indirect Expenses">
+            <outline text="Administrative Expenses" />
+            <outline text="Commission on Sales" />
+            <outline text="Depreciation" />
+            <outline text="Entertainment Expenses" />
+            <outline text="Exchange Gain/Loss" />
+            <outline text="Freight and Forwarding Charges" />
+            <outline text="Gain/Loss on Asset Disposal" />
+            <outline text="Legal Expenses" />
+            <outline text="Marketing Expenses" />
+            <outline text="Miscellaneous Expenses" />
+            <outline text="Office Maintenance Expenses" />
+            <outline text="Office Rent" />
+            <outline text="Postal Expenses" />
+            <outline text="Print and Stationery" />
+            <outline text="Round Off" />
+            <outline text="Salary" />
+            <outline text="Sales Expenses" />
+            <outline text="Telephone Expenses" />
+            <outline text="Travel Expenses" />
+            <outline text="Utility Expenses" />
+            <outline text="Write Off" />
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="chart of account part identifications">
+      <outline text="" />
+    </outline>
+  </body>
+</opml>
